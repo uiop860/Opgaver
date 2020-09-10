@@ -7,17 +7,15 @@ void setup()
 {
   println("Hi, my name is "+name);
   println("I am "+age+" years old");
-    if (happy == false)
+  if (happy == false)
   {
     println("I "+feeling+" clap my hands");
-  }
-  else
+  } else
   {
-    println("I clap my hands");    
+    println("I clap my hands");
   }
 }
 
 void draw()
 {
-
 }
