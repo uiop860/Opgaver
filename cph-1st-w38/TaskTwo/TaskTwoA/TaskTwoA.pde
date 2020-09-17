@@ -15,5 +15,5 @@ void setup() {
 boolean iAmHappy()
 {
   // fill out what is missing here: 
-  
+  return happy;
 }
