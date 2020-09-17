@@ -1,24 +1,26 @@
 
-
 String names[] = {"Brian", "Claus", "Hans", "Solo", "Dennis", "Anders", "Mads", "Frederik", "Jens", "Børge"};
 
-Student[] student = new Student[names.length];
+Student[] student;
 
 
 
 
 void setup() 
 {
-  noLoop();
+  student = new Student[names.length];
   for (int i=0; i<names.length; i++) 
   {
     student[i] = new Student(names[i]);
+    println(student[i]);
   }
 }
 
-void draw()
-{
-  for (int i=0; i<names.length; i++) {
-    println(student[i]);
+
+class Student {
+  String name;
+
+  Student(String _name) {
+    name = _name;
   }
 }
