@@ -35,7 +35,10 @@ Done .---------
   
   
 
-- Når en spiller har mindre end 1 playerLife tilbage, forsvinder den. Den sidste spiller der er tilbage vinder spillet.
+- Når en spiller har mindre end 1 playerLife tilbage, forsvinder den. 
+Den sidste spiller der er tilbage vinder spillet.
+
+Done .---------
 
 
 
