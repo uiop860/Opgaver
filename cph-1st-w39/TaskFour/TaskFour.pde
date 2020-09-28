@@ -6,7 +6,7 @@ int[] arr = { 1, 1, 1, 2, 2, 3, 3, 3, 4, 5, 5, 5, 6, 6, 7, 8, 8, 9, 9, 10 };
 
 void setup() {
 
-  assignment4a(100);
+  assignment4a(8);
   println(assignment4c(arr));
   assignment4e(1, 1);
 }
@@ -25,7 +25,7 @@ void assignment4a(int test) {
 
 int[] assignment4c(int[] tempArr) {
 
-  int temp = (int)random(0, tempArr.length-1);
+  int temp = (int)random(0, tempArr.length);
   int test[]= {0};
   test[0] = tempArr[temp];
 

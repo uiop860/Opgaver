@@ -1,22 +1,22 @@
 
-int[][] board = new int[9][9];
-int counter = 0;
+int[][] board = new int[8][8];
+
 int sideLength = 40;
 
 void setup() {
-  size(320, 320);
+  size(350, 350);
 
   for (int x = 0; x<board.length; x++) 
   {
     for (int y = 0; y<board.length; y++) 
     {
 
-      if (counter % 2 ==0) {
+      if ((x+y+1) % 2 ==0) {
         board[x][y] = 0;
-        counter++;
+
       } else {
         board [x][y] = 1;
-        counter++;
+
       }
     }
   }
