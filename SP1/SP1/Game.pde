@@ -39,12 +39,12 @@ class Game
 
     keys = new Keys();
     player1 = new Dot(0, 0, width-1, height-1);
-    player2 = new Dot(width-1, 0, width-1, height-1);
+    player2 = new Dot(width-1, height-1, width-1, height-1);
     enemies = new Dot[numberOfEnemies];
     food = new Dot((int)random(0, width-1), (int)random(0, height-1), width-1, height-1);
     for (int i = 0; i < numberOfEnemies; ++i)
     {
-      enemies[i] = new Dot(width-1, height-1, width-1, height-1);
+      enemies[i] = new Dot(width/2, height/2, width-1, height-1);
     }
   }
 
@@ -65,6 +65,7 @@ class Game
     }
     return player1Life;
   }
+  
   public int getPlayer2Life()
   {
     if (player2Life <=0) {
@@ -275,7 +276,6 @@ class Game
   private void updateFood() {
     
     // flees from the player closest to itself
-
 
     int dxPlayer1 = player1.getX() - food.getX();
     int dyPlayer1 = player1.getY() - food.getY();
