@@ -25,11 +25,9 @@ class Dot
   
   public void moveLeft(int factor)
   {
-    //--x;
     for(int i =0; i<factor; i++){
       --x;
     }
-    //x = x - factor;
     if(x < 0)
     {
       x = 0;
@@ -38,11 +36,9 @@ class Dot
   
   public void moveRight(int factor)
   {
-    //++x;
     for(int i =0; i<factor; i++){
       ++x;
     }
-    //x = x + factor;
     if(x > maxX)
     {
       x = maxX;
@@ -51,11 +47,9 @@ class Dot
   
   public void moveUp(int factor)
   {
-    //--y;
     for(int i =0; i<factor; i++){
       --y;
     }
-    //y = y - factor;
     if(y < 0)
     {
       y = 0;
@@ -64,11 +58,9 @@ class Dot
   
   public void moveDown(int factor)
   {
-    //++y;
     for(int i =0; i<factor; i++){
       ++y;
     }
-    //y = y + factor;
     if(y > maxY)
     {
       y = maxY;
