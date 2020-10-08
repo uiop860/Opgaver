@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dd43971-33a4-4151-9295-2a3ffa04cd47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iaT4ascaONmwuUi5owRimIH2t9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Intellij/InheritanceAndInterfaces" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Main3">
+    <configuration name="Main1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task1.Main" />
+      <module name="exercises41" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task2.Main" />
+      <module name="exercises41" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task3.Main" />
+      <module name="exercises41" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task1.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main3" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dd43971-33a4-4151-9295-2a3ffa04cd47" name="Default Changelist" comment="" />
+      <created>1602144514324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602144514324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="234" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602154660666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="404" y="234" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602154660666" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1602156266667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602156266667" />
+    <state x="650" y="271" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602154658600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="271" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602154658600" />
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602152741274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602152741274" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602153825648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602153825648" />
+    <state width="1877" height="180" key="GridCell.Tab.0.bottom" timestamp="1602157823677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602157823677" />
+    <state width="1877" height="180" key="GridCell.Tab.0.center" timestamp="1602157823676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602157823676" />
+    <state width="1877" height="180" key="GridCell.Tab.0.left" timestamp="1602157823676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602157823676" />
+    <state width="1877" height="180" key="GridCell.Tab.0.right" timestamp="1602157823677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="180" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602157823677" />
+    <state x="491" y="148" key="SettingsEditor" timestamp="1602153458259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="148" key="SettingsEditor/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602153458259" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602146206428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602146206428" />
+    <state x="971" y="235" key="refactoring.ChangeSignatureDialog" timestamp="1602156575887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="971" y="235" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.-272.1920.1040@0.0.1920.1040" timestamp="1602156575887" />
+  </component>
+</project>
