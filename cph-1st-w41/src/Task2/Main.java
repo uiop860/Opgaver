@@ -16,11 +16,11 @@ public class Main {
         Building building = new Building(2,2,false,rooms);
 
         int totalLamps=0;
-        for (int i = 0; i <rooms.size() ; i++) {
+        for (int i = 0; i <building.getRooms().size() ; i++) {
             totalLamps += building.getRooms().get(i).getNumberOfLamps();
         }
 
-        if (building.getNumberOfFloors() > rooms.size()){
+        if (building.getNumberOfFloors() > building.getRooms().size()){
             System.out.println("This is a weird building");
         }
 

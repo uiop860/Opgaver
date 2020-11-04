@@ -13,10 +13,10 @@ public class Main {
         car2.setDriver(driver1);
 
         System.out.println(car1.toString());
-        System.out.println(driver1.toString());
+        System.out.println(car1.getDriver().toString());
 
         System.out.println(car2.toString());
-        System.out.println(driver1.toString());
+        System.out.println(car2.getDriver().toString());
 
     }
 
