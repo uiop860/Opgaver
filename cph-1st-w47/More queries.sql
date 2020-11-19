@@ -1,0 +1,14 @@
+-- More queries
+-- a
+-- insert into actor (first_name,last_name) values ("Oliver","Stæhr");
+-- b
+-- insert into film_actor (actor_id,film_id) values (201,342);
+-- insert into film_actor (actor_id,film_id) values (201,503);
+-- insert into film_actor (actor_id,film_id) values (201,764);
+-- insert into film_actor (actor_id,film_id) values (201,281);
+-- insert into film_actor (actor_id,film_id) values (201,999);
+-- c
+-- update actor set first_name = "Spaghet",last_name = "Fiesta" where actor_id = 201;
+-- d
+-- delete from film_actor where actor_id = 201;
+-- delete from actor where actor_id = 201;
